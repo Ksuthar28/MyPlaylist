@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPlaylist</string>
+    <string name="access_token">AIzaSyDHeZhfrWZHbgZ8QbKRHDU4huAF7flSBHo</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="server_unreachable">"The server is unreachable</string>
+<!--    <string name="server_unreachable">"A connection could not be established, try again after some time</string>-->
+    <string name="recent_courses">Recent Courses</string>
+    <string name="image_description">Image Description</string>
+    <string name="courses_you_may_like">Courses You may Like</string>
+    <string name="search_course_text">Search Course</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+</resources>
