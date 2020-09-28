@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyPlaylist</string>
-    <string name="access_token">access_key</string>
+    <string name="access_token">your_access_token</string>
     <string name="no_internet">No internet connection</string>
     <string name="server_unreachable">"The server is unreachable</string>
 <!--    <string name="server_unreachable">"A connection could not be established, try again after some time</string>-->
